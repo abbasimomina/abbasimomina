@@ -98,3 +98,5 @@ I use GitHub to document my development journey, build real-world projects, expe
 - [Instagram](https://www.instagram.com/visionairestudio_/)
 
 I'm open to connecting with developers, recruiters, founders, and people building meaningful technology products.
+
+---
