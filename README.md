@@ -91,3 +91,10 @@ Building a professional digital solutions platform as part of the Visionaire eco
 I use GitHub to document my development journey, build real-world projects, experiment with new technologies, and continuously improve my engineering skills.
 
 > Building consistently. Learning continuously. Shipping intentionally.
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/company/visionaire-studio/)
+- [Instagram](https://www.instagram.com/visionairestudio_/)
+
+I'm open to connecting with developers, recruiters, founders, and people building meaningful technology products.
