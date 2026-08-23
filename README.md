@@ -36,3 +36,37 @@ I specialize in building full-stack web applications and digital products that c
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🏫 Visionaire EduCore
+**Role-Based Educational Management System**
+
+A full-stack educational CMS designed to centralize academic and administrative workflows for institutions.
+
+**Key Features**
+- Role-based access control for Admin, Teacher, Student & Admission Staff
+- Student admission & academic management
+- Attendance and result management
+- Fee & challan management
+- Notifications and administrative workflows
+- Dedicated dashboards for different user roles
+
+**Tech:** React · Node.js · Express.js · MongoDB
+
+---
+
+### 🛒 Baaji
+**Full-Stack E-Commerce Platform**
+
+A MERN-based e-commerce application built with a focus on real-world shopping workflows and scalable backend architecture.
+
+**Key Features**
+- Product catalog & product management
+- User authentication
+- Shopping cart & checkout workflows
+- RESTful APIs
+- Admin functionality
+- MongoDB data management
+
+**Tech:** React · Node.js · Express.js · MongoDB
