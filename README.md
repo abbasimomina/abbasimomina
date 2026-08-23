@@ -85,3 +85,9 @@ Building a professional digital solutions platform as part of the Visionaire eco
 - System design
 - Cybersecurity & secure application development
 - AI-integrated software engineering
+
+## GitHub Activity
+
+I use GitHub to document my development journey, build real-world projects, experiment with new technologies, and continuously improve my engineering skills.
+
+> Building consistently. Learning continuously. Shipping intentionally.
