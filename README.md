@@ -37,9 +37,9 @@ I specialize in building full-stack web applications and digital products that c
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏫 Visionaire EduCore
+### Visionaire EduCore
 **Role-Based Educational Management System**
 
 A full-stack educational CMS designed to centralize academic and administrative workflows for institutions.
@@ -56,7 +56,7 @@ A full-stack educational CMS designed to centralize academic and administrative 
 
 ---
 
-### 🛒 Baaji
+### Baaji
 **Full-Stack E-Commerce Platform**
 
 A MERN-based e-commerce application built with a focus on real-world shopping workflows and scalable backend architecture.
@@ -70,3 +70,18 @@ A MERN-based e-commerce application built with a focus on real-world shopping wo
 - MongoDB data management
 
 **Tech:** React · Node.js · Express.js · MongoDB
+
+## Currently Building
+
+### Visionaire EduCore
+Expanding a full-stack educational management platform with role-based workflows, academic management, dashboards, and administrative tools.
+
+### Visionaire Code
+Building a professional digital solutions platform as part of the Visionaire ecosystem.
+
+### Exploring
+- Advanced React & modern frontend architecture
+- Scalable backend systems
+- System design
+- Cybersecurity & secure application development
+- AI-integrated software engineering
